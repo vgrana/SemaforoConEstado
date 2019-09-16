@@ -4,7 +4,7 @@
  *  Created on: 2 sep. 2019
  *      Author: valeria
  */
-#include "Semaforo1.h"
+#include "Semaforo2.h"
 #include "sapi.h"
 
 void EstadoInicial1(Semaforo * sema) {

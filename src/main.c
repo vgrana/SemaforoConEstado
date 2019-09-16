@@ -5,9 +5,8 @@
  *      Author: valeria
  */
 
-#include "Semaforo1.h"
-#include "SemaforoSecuenciado.h"
-#include "blinky.h"
+#include "Semaforo2.h"
+#include "SemaforoSecuenciado2.h"
 #include "sapi.h"
 //
 int main(void) {

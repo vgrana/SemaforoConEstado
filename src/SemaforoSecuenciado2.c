@@ -4,8 +4,8 @@
  *  Created on: 6 sep. 2019
  *      Author: valeria
  */
-#include "Semaforo1.h"
-#include "SemaforoSecuenciado.h"
+#include "Semaforo2.h"
+#include "SemaforoSecuenciado2.h"
 #include "sapi.h"
 
 void EstadoInicial(SemaforoSecuenciado * semSec) {
